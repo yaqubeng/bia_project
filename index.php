@@ -1,6 +1,6 @@
 <?PHP
 
-echo "GIT HUB!";
+echo "GITHUB TEST!";
 
 
 ?>
